@@ -1,0 +1,6 @@
+packages:
+  # 放置各种项目
+  - "apps/frontend/*"
+  - "apps/backend/*"
+  #  TH & Fh ALE
+  - "packages/*"
